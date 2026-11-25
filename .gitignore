@@ -1,0 +1,8 @@
+Data/*
+reto6/*
+venv/*
+.venv/*
+/Data/
+documentacion/*
+__pycache__/*
+.pytest_cache/*
